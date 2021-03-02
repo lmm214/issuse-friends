@@ -12,5 +12,5 @@ setting:
   github_friends_links: # github友链配置
     enable: true
     owner: lmm214
-    repo: friends
+    repo: issuse-friends
     state: open
